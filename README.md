@@ -10,6 +10,7 @@ This script is a combination of 2 main components for Windows :
 The installation is half-manual, half-automated.\
 The manual part is the installation of the required software.\
 The automated part is the installation of each library, and specific changes done to them.
+
 (You also need a /certif repo in the root path of the project with a ca-certificate for polarion webservice.)
 
 ### Required installations
